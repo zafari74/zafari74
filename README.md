@@ -2,7 +2,7 @@ Hi there 👋
 I’m Didar Zafari — welcome to my GitHub profile!
 
 # 💫 About Me:
-🚀 About Me<br>🔭 Currently working on web development projects (HTML, CSS, Tailwind CSS, JavaScript, Django)<br><br>🌱 Expanding my skills in database systems and full‑stack development<br><br>👯 Open to collaborating on open‑source projects and educational tools<br><br>💬 Ask me about responsive design, forms, and database integration<br><br>📫 Reach me at: [your email or LinkedIn here]<br><br>⚡ Fun fact: I enjoy blending technology with education, creating tools that make learning easier<br>
+🚀 About Me<br>🔭 Currently working on web development projects (HTML, CSS, Tailwind CSS, JavaScript, Django)<br><br>🌱 Expanding my skills in database systems and full‑stack development<br><br>👯 Open to collaborating on open‑source projects and educational tools<br><br>💬 Ask me about responsive design, forms, and database integration<br><br>📫 Reach me at: didarzafari74@gmail.com<br><br>⚡ Fun fact: I enjoy blending technology with education, creating tools that make learning easier<br>
 
 
 # 💻 Tech Stack:
